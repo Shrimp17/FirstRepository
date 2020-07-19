@@ -1,7 +1,4 @@
 # FirstRepository
-
-Hi Customers!
-
-Hello World!
-
+dd
+dd
 #end
