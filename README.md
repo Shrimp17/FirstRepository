@@ -1,4 +1,7 @@
 # FirstRepository
-dd
-dd
+
+Hi Customers!
+
+Hello World!
+
 #end
